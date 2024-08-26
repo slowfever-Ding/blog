@@ -17,6 +17,7 @@ export default sidebar({
       children: "structure",
     },
     "intro",
+    "test",
     {
       text: "幻灯片",
       icon: "person-chalkboard",
